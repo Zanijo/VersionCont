@@ -1,0 +1,2 @@
+int num1;
+printf("STDOUT = %d", num1);
